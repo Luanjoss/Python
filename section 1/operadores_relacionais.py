@@ -52,5 +52,3 @@ x = 65
 y = 14
 
 print("x eh menor igual a y?:", x <= y)
-
-eh sobre isso
