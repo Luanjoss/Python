@@ -38,3 +38,7 @@ print(varint)
 print(varfloat)
 print(varstring)
 print(varboo)
+
+jgdgfd
+gdg
+DeprecationWarni
