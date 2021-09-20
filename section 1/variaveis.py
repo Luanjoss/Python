@@ -31,7 +31,7 @@ print("-------------------------------------------------------------------------
 
 varint = 1
 varfloat = 1.5
-varstring = "Eu  sou uma String"
+varstring = "Eu sou uma String"
 varboo = True
 
 print(varint)
